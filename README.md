@@ -1,1 +1,1 @@
-# FE116-Programming-and-Advanced-Numerical-Methods
+Small code snippets in Octave to support my lectures in Numerical Methods.
